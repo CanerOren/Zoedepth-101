@@ -1,8 +1,7 @@
 
 # Zoe Depth Estimation
 
-Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
-
+Projenin orijinali Mert Çobanv'un "Uçtan Uca Temel Python Projesi" eğitimidir , üstüne eklemeler yapacağım.
 
 ## Proje Başlığı
 
